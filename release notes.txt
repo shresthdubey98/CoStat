@@ -1,0 +1,6 @@
+This application aims to provide the users with the live statistics of ongoing possible covid-19 cases in India. 
+It provides a overall counter of confirmed, active, recovered and deceased cases in India. Users can also view the state wise and district wise data. 
+The feature of user's personalized watchlist is also added for the users who are interested in keeping watch on specific states of the country.
+Users can also find information about covid-19 virus, its symptoms and do(s)/don't(s) to be followed by civilians.
+
+SHA1: F9:11:27:4F:62:B8:52:AB:8E:4A:04:41:40:76:DB:0E:80:CE:B1:50
